@@ -1,9 +1,8 @@
 {
   "name": "ecommerce-website-vuejs-nuxtjs-vuetify",
   "short_name": "ecommerce-website-vuejs-nuxtjs-vuetify",
-  "description": "eCommerce website built using: [Vue.js](https://vuejs.org/) + [Nuxt](https://nuxt.com/) + [Vuetify](https://vuetifyjs.com/en/)",
   "icons": [],
-  "start_url": "/shirt/?standalone=true",
+  "start_url": "/ahmed/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "lang": "en"
